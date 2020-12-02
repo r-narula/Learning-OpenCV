@@ -2,6 +2,7 @@
 
 ```
 gcnandi.com
+https://docs.google.com/document/d/1SJcTLplbb6ilb24EMpmdTRBbJp6XZhnf/edit
 ```
 ```
 Gradient Descent what is the use of it?
