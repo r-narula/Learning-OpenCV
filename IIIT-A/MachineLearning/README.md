@@ -28,7 +28,6 @@ Actual
 Actual
 ```
 
-<<<<<<< HEAD
 
 ## Errors in Linear Regression
 ```
@@ -38,5 +37,3 @@ That means it is limited to linear relationships.
 
 Also it assumes that the features are independent of each other (Multiple Linear Regresssion)
 ```
-=======
->>>>>>> 06278d35e4001cfc34415f531121ddd5c7a79328

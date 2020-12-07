@@ -30,7 +30,6 @@ https://www.youtube.com/watch?v=x41KFOFGnUE&ab_channel=GlobalSoftwareSupport
 ```
 It finds the Haar features and then we need just to mark the face.
 
-
 ```
 PCA Is a Dimensionality Reduction technique ..
 Reduce the number of columns
