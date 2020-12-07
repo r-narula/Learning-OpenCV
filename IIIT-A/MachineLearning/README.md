@@ -26,3 +26,13 @@ We use the confusion matrix to calculate the accuracy of the classification.
 Actual  
 Actual
 ```
+
+
+## Errors in Linear Regression
+```
+The main con of using the linear regresssion is the assumption that the data is linearly
+progressing which is generally not the case in real world scenario.
+That means it is limited to linear relationships.
+
+Also it assumes that the features are independent of each other (Multiple Linear Regresssion)
+```
