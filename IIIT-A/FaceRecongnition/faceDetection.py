@@ -46,7 +46,7 @@ def detect_faces(cascade, test_image, scaleFactor = 1.1):
     return image_copy
 
 # list = ['elon.webp','group.webp','elonMusk.jpg','elonMuskTest.jpg','bill.jpg']
-list = os.listdir('/home/mononoke/ChessDetection/IIIT-A/FaceRecongnition/detectionImages/')
+list = os.listdir('/home/mononoke/ChessDetection/IIIT-A/FaceRecongnition/detectionImages')
 for i in list:
     test_image2 = cv2.imread(f"/home/mononoke/ChessDetection/IIIT-A/FaceRecongnition/detectionImages/{i}")
     test_image2 = cv2.rotate(test_image2,cv2.ROTATE_180)
